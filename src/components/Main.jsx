@@ -1,4 +1,4 @@
-import bgMain from "../assets/img/bg.jpg";
+import bgMain from "../assets/img/_bg.jpg";
 import logo from "../assets/img/logo.png";
 
 const Main = () => {
