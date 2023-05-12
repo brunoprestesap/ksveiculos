@@ -33,7 +33,7 @@ const Main = () => {
               rel="noreferrer"
             >
               <button className="py-5 w-64 bg-orange-500 text-gray-200">
-                Solicite uma cotação
+                Entre em contato
               </button>
             </a>
           </div>
