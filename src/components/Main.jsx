@@ -32,7 +32,7 @@ const Main = () => {
               target="_blank"
               rel="noreferrer"
             >
-              <button className="py-5 w-64 bg-orange-900 text-gray-200">
+              <button className="py-5 w-64 bg-orange-500 text-gray-200">
                 Solicite uma cotação
               </button>
             </a>
