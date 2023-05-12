@@ -46,7 +46,7 @@ const Main = () => {
           </div>
 
           <div className="text-center md:m-3">
-            <h2 className="text-sm md:text-lg">contato@ksveiculos.com.br</h2>
+            <h2 className="text-sm md:text-lg">kassiobarbosadesouza@gmail.com</h2>
             <h2 className="text-sm md:text-lg">96 99169-3224</h2>
           </div>
         </div>
