@@ -1,5 +1,5 @@
-import bgMain from "../assets/img/_bg.jpg";
-import logo from "../assets/img/logo.png";
+import bgMain from "../assets/img/_bg.webp";
+import logo from "../assets/img/logo.webp";
 
 const Main = () => {
   return (
